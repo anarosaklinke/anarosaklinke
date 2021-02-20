@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anarosaklinke.
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning programming languages.
-- 💞️ I’m looking to collaborate on open source projects that use java
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me LinkedIn!
 
 <!---
